@@ -1,0 +1,1 @@
+{"reportName":"stg-daily","testRuns":[],"statistic":{"failed":4,"broken":0,"skipped":11,"passed":74,"unknown":0,"total":89},"time":{"start":1730407762317,"stop":1730408504918,"duration":742601,"minDuration":0,"maxDuration":375808,"sumDuration":1128411}}
